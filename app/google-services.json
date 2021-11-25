@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320126633947",
+    "project_id": "ciudades-cad9e",
+    "storage_bucket": "ciudades-cad9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320126633947:android:0da8782a401cc6cda449fe",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320126633947-t1fo4oop15uprn29jq6eeg1nbq7ka4ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOuH-6FqcPuU7Z15aBkPXbtS_jqrkjMD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320126633947-t1fo4oop15uprn29jq6eeg1nbq7ka4ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
